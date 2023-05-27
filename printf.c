@@ -1,12 +1,12 @@
 #include <stdio.h>
 /**
- * main - Entry point
+ * main - the entry point of the app
  *
  *  Return: Always 0 (Success)
  */
 int main(void)
 {
-	printf("with proper grammar, but the outcome is a piece of art,\n");
+	printf("checking the printf function,\n");
 	return (0);
 }
 
